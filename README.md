@@ -4,4 +4,4 @@ This repository consist of MATLAB learnings
 **CODE 1**
 ----------------------------------
 This gives an idea about how to plot basic signals in MATLAB. 
-<img src= image/upload git m1.png>
+<img src= image/uploadgitm1.png>
