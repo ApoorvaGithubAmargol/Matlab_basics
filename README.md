@@ -9,5 +9,5 @@ This gives an idea about how to plot basic signals in MATLAB.
 
 **CODE 2**
 ----------------------------------
-This gives an idea IMAGE PROCESSING. 
-<img src= image/gitm2.png>
+Operations on two sine signals with different amplitude, same frequency is as follows.
+<img src=image/image.png>
