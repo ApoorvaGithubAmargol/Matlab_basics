@@ -5,7 +5,7 @@ t=0:0.02:2
 x1=2*sin(2*pi*t*1)
 subplot(5,2,1)
 stem(t,x1)
-title('signal x1')
+title('signal x1')a
 
 x2=1*sin(2*pi*t*1)
 subplot(5,2,2)
